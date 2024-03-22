@@ -20,4 +20,5 @@
 - 2562번 - 최댓값 [ [문제보기](https://www.acmicpc.net/problem/2562) \ [코드](week1/2562.py) ]
 - 15596번 - 정수 N개의 합 [ [문제보기](https://www.acmicpc.net/problem/15596) \ [코드](week1/15596.py) ]
 - 11654번 - 아스키 코드 [ [문제보기](https://www.acmicpc.net/problem/11654) \ [코드](week1/11654.py) ]
+- 2675번 - 아스키 코드 [ [문제보기](https://www.acmicpc.net/problem/2675) \ [코드](week1/2675.py) ]
 </details>
