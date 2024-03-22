@@ -22,4 +22,5 @@
 - 11654번 - 아스키 코드 [ [문제보기](https://www.acmicpc.net/problem/11654) \ [코드](week1/11654.py) ]
 - 2675번 - 문자열 반복 [ [문제보기](https://www.acmicpc.net/problem/2675) \ [코드](week1/2675.py) ]
 - 1978번 - 소수 찾기 [ [문제보기](https://www.acmicpc.net/problem/1978) \ [코드](week1/1978.py) ]
+- 9020번 - 골드바흐의 추측 [ [문제보기](https://www.acmicpc.net/problem/9020) \ [코드](week1/9020.py) ]
 </details>
