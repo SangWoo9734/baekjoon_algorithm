@@ -23,5 +23,6 @@
 - 2675번 - 문자열 반복 [ [문제보기](https://www.acmicpc.net/problem/2675) \ [코드](week1/2675.py) ]
 - 1978번 - 소수 찾기 [ [문제보기](https://www.acmicpc.net/problem/1978) \ [코드](week1/1978.py) ]
 - 9020번 - 골드바흐의 추측 [ [문제보기](https://www.acmicpc.net/problem/9020) \ [코드](week1/9020.py) ]
+- 10872번 - 팩토리얼 [ [문제보기](https://www.acmicpc.net/problem/10872) \ [코드](week1/10872.py) ]
 - 1914번 - 하노이 탑 [ [문제보기](https://www.acmicpc.net/problem/1914) \ [코드](week1/1914.py) ]
 </details>
