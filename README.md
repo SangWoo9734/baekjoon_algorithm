@@ -25,4 +25,6 @@
 - 9020번 - 골드바흐의 추측 [ [문제보기](https://www.acmicpc.net/problem/9020) \ [코드](week1/9020.py) ]
 - 10872번 - 팩토리얼 [ [문제보기](https://www.acmicpc.net/problem/10872) \ [코드](week1/10872.py) ]
 - 1914번 - 하노이 탑 [ [문제보기](https://www.acmicpc.net/problem/1914) \ [코드](week1/1914.py) ]
+<!-- - 9663번 - N-Queen [ [문제보기](https://www.acmicpc.net/problem/9663) \ [코드](week1/9663.py) ] -->
+- 2750번 - 수 정렬하기 [ [문제보기](https://www.acmicpc.net/problem/2750) \ [코드](week1/2750.py) ]
 </details>
