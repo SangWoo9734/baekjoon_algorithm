@@ -28,4 +28,5 @@
 <!-- - 9663번 - N-Queen [ [문제보기](https://www.acmicpc.net/problem/9663) \ [코드](week1/9663.py) ] -->
 - 2750번 - 수 정렬하기 [ [문제보기](https://www.acmicpc.net/problem/2750) \ [코드](week1/2750.py) ]
 - 1181번 - 단어정렬 [ [문제보기](https://www.acmicpc.net/problem/1181) \ [코드](week1/1181.py) ]
+- 2309번 - 일곱 난쟁이 [ [문제보기](https://www.acmicpc.net/problem/2309) \ [코드](week1/2309.py) ]
 </details>
