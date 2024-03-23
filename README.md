@@ -27,4 +27,5 @@
 - 1914번 - 하노이 탑 [ [문제보기](https://www.acmicpc.net/problem/1914) \ [코드](week1/1914.py) ]
 <!-- - 9663번 - N-Queen [ [문제보기](https://www.acmicpc.net/problem/9663) \ [코드](week1/9663.py) ] -->
 - 2750번 - 수 정렬하기 [ [문제보기](https://www.acmicpc.net/problem/2750) \ [코드](week1/2750.py) ]
+- 1181번 - 단어정렬 [ [문제보기](https://www.acmicpc.net/problem/1181) \ [코드](week1/1181.py) ]
 </details>
