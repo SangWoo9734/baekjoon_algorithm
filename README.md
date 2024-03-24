@@ -31,4 +31,5 @@
 - 2309번 - 일곱 난쟁이 [ [문제보기](https://www.acmicpc.net/problem/2309) \ [코드](week1/2309.py) ]
 - 1920번 - 수 찾기 [ [문제보기](https://www.acmicpc.net/problem/1920) \ [코드](week1/1920.py) ]
 - 2805번 - 나무 자르기 [ [문제보기](https://www.acmicpc.net/problem/2805) \ [코드](week1/2805.py) ]
+- 1654번 - 랜선 자르기 [ [문제보기](https://www.acmicpc.net/problem/1654) \ [코드](week1/1654.py) ]
 </details>
