@@ -35,6 +35,7 @@
 <!-- - 8983번 - 사냥꾼 [ [문제보기](https://www.acmicpc.net/problem/8983) \ [코드](week1/8983.py) ] -->
 - 10828번 - 스택 [ [문제보기](https://www.acmicpc.net/problem/10828) \ [코드](week1/10828.py) ]
 <!-- - 2493번 - 탑 [ [문제보기](https://www.acmicpc.net/problem/2493) \ [코드](week1/2493.py) ] -->
+- 2630번 - 색종이 만들기 [ [문제보기](https://www.acmicpc.net/problem/2630) \ [코드](week1/2630.py) ]
 - 11866번 - 요세푸스 문제 0 [ [문제보기](https://www.acmicpc.net/problem/11866) \ [코드](week1/11866.py) ]
 - 18258번 - 큐 2 [ [문제보기](https://www.acmicpc.net/problem/18258) \ [코드](week1/18258.py) ]
 - 11279번 - 최대 힙 [ [문제보기](https://www.acmicpc.net/problem/11279) \ [코드](week1/11279.py) ]
