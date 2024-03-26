@@ -40,5 +40,8 @@
 - 11866번 - 요세푸스 문제 0 [ [문제보기](https://www.acmicpc.net/problem/11866) \ [코드](week1/11866.py) ]
 - 18258번 - 큐 2 [ [문제보기](https://www.acmicpc.net/problem/18258) \ [코드](week1/18258.py) ]
 - 11279번 - 최대 힙 [ [문제보기](https://www.acmicpc.net/problem/11279) \ [코드](week1/11279.py) ]
+<!-- - 1629번 - 곱셈 [ [문제보기](https://www.acmicpc.net/problem/1629) \ [코드](week1/1629.py) ] -->
+- 15649번 - N과 M (1) [ [문제보기](https://www.acmicpc.net/problem/15649) \ [코드](week1/15649.py) ]
+- 15650번 - N과 M (2) [ [문제보기](https://www.acmicpc.net/problem/15650) \ [코드](week1/15650.py) ]
 
 </details>
