@@ -43,5 +43,6 @@
 <!-- - 1629번 - 곱셈 [ [문제보기](https://www.acmicpc.net/problem/1629) \ [코드](week1/1629.py) ] -->
 - 15649번 - N과 M (1) [ [문제보기](https://www.acmicpc.net/problem/15649) \ [코드](week1/15649.py) ]
 - 15650번 - N과 M (2) [ [문제보기](https://www.acmicpc.net/problem/15650) \ [코드](week1/15650.py) ]
+- 3190번 - 뱀 [ [문제보기](https://www.acmicpc.net/problem/3190) \ [코드](week1/3190.py) ]
 
 </details>
