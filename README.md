@@ -1,6 +1,6 @@
 # 🌱 KRAFTON JUNGLE ALGORITHM 🌱
 
-## Week1
+## 1️⃣ Week1
 
 > #### KEYWORD
 >
@@ -49,6 +49,22 @@
 - 1110번 - 더하기 사이클 [ [문제보기](https://www.acmicpc.net/problem/1110) \ [코드](week1/1110.py) ]
 - 1182번 - 부분수열의 합 [ [문제보기](https://www.acmicpc.net/problem/1182) \ [코드](week1/1182.py) ]
 - 1992번 - 쿼드트리 [ [문제보기](https://www.acmicpc.net/problem/1992) \ [코드](week1/1992.py) ]
+
+</details>
+
+## 2️⃣ Week2
+
+> #### KEYWORD
+>
+> - 그래프(vertex, edge, node, arc), BFS, DFS, 위상정렬
+>
+> #
+
+<details open>
+<summary>문제보기</summary>
+<br>
+
 - 1991번 - 트리 순회 [ [문제보기](https://www.acmicpc.net/problem/1991) \ [코드](week1/1991.py) ]
+- 5639번 - 이진 검색 트리 [ [문제보기](https://www.acmicpc.net/problem/5639) \ [코드](week1/5639.py) ]
 
 </details>
