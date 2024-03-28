@@ -48,5 +48,6 @@
 <!-- - 1655번 - 가운데를 말해요 [ [문제보기](https://www.acmicpc.net/problem/1655) \ [코드](week1/1655.py) ] -->
 - 1110번 - 더하기 사이클 [ [문제보기](https://www.acmicpc.net/problem/1110) \ [코드](week1/1110.py) ]
 - 1182번 - 부분수열의 합 [ [문제보기](https://www.acmicpc.net/problem/1182) \ [코드](week1/1182.py) ]
+- 1992번 - 쿼드트리 [ [문제보기](https://www.acmicpc.net/problem/1992) \ [코드](week1/1992.py) ]
 
 </details>
