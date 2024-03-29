@@ -67,5 +67,6 @@
 - 1991번 - 트리 순회 [ [문제보기](https://www.acmicpc.net/problem/1991) \ [코드](week1/1991.py) ]
 - 5639번 - 이진 검색 트리 [ [문제보기](https://www.acmicpc.net/problem/5639) \ [코드](week1/5639.py) ]
 - 1260번 - DFS와 BFS [ [문제보기](https://www.acmicpc.net/problem/1260) \ [코드](week1/1260.py) ]
+- 2252번 - 줄 세우기 [ [문제보기](https://www.acmicpc.net/problem/2252) \ [코드](week1/2252.py) ]
 
 </details>
