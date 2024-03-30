@@ -73,5 +73,6 @@
 - 11725번 - 트리의 부모 찾기 [ [문제보기](https://www.acmicpc.net/problem/11725) \ [코드](week1/11725.py) ]
 <!-- - 1707번 - 이분 그래프 [ [문제보기](https://www.acmicpc.net/problem/1707) \ [코드](week1/1707.py) ] -->
 - 2178번 - 미로 탐색 [ [문제보기](https://www.acmicpc.net/problem/2178) \ [코드](week1/2178.py) ]
+- 18352번 - 특정 거리의 도시 찾기 [ [문제보기](https://www.acmicpc.net/problem/18352) \ [코드](week1/18352.py) ]
 
 </details>
