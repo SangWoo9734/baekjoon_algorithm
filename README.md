@@ -70,5 +70,6 @@
 - 2252번 - 줄 세우기 [ [문제보기](https://www.acmicpc.net/problem/2252) \ [코드](week1/2252.py) ]
 - 11724번 - 연결 요소의 개수 [ [문제보기](https://www.acmicpc.net/problem/11724) \ [코드](week1/11724.py) ]
 - 2606번 - 바이러스 [ [문제보기](https://www.acmicpc.net/problem/2606) \ [코드](week1/2606.py) ]
+- 11725번 - 트리의 부모 찾기 [ [문제보기](https://www.acmicpc.net/problem/11725) \ [코드](week1/11725.py) ]
 
 </details>
