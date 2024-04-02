@@ -76,5 +76,6 @@
 - 18352번 - 특정 거리의 도시 찾기 [ [문제보기](https://www.acmicpc.net/problem/18352) \ [코드](week1/18352.py) ]
 - 1197번 - 최소 스패닝 트리 [ [문제보기](https://www.acmicpc.net/problem/1197) \ [코드](week1/1197.py) ]
 - 14888번 - 연산자 끼워넣기 [ [문제보기](https://www.acmicpc.net/problem/14888) \ [코드](week1/14888.py) ]
+- 1916번 - 최소비용 구하기 [ [문제보기](https://www.acmicpc.net/problem/1916) \ [코드](week1/1916.py) ]
 
 </details>
