@@ -78,5 +78,6 @@
 - 14888번 - 연산자 끼워넣기 [ [문제보기](https://www.acmicpc.net/problem/14888) \ [코드](week1/14888.py) ]
 - 1916번 - 최소비용 구하기 [ [문제보기](https://www.acmicpc.net/problem/1916) \ [코드](week1/1916.py) ]
 - 2665번 - 미로 만들기 [ [문제보기](https://www.acmicpc.net/problem/2665) \ [코드](week1/2665.py) ]
+- 21606번 - 아침 산책 [ [문제보기](https://www.acmicpc.net/problem/21606) \ [코드](week1/21606.py) ]
 
 </details>
