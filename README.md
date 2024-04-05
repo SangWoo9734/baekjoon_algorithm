@@ -49,6 +49,7 @@
 - 1110번 - 더하기 사이클 [ [문제보기](https://www.acmicpc.net/problem/1110) \ [코드](week1/1110.py) ]
 - 1182번 - 부분수열의 합 [ [문제보기](https://www.acmicpc.net/problem/1182) \ [코드](week1/1182.py) ]
 - 1992번 - 쿼드트리 [ [문제보기](https://www.acmicpc.net/problem/1992) \ [코드](week1/1992.py) ]
+- 1388번 - 바닥 장식 [ [문제보기](https://www.acmicpc.net/problem/1388) \ [코드](week1/1388.py) ]
 
 </details>
 
@@ -81,4 +82,19 @@
 - 21606번 - 아침 산책 [ [문제보기](https://www.acmicpc.net/problem/21606) \ [코드](week2/21606.py) ]
 - 2667번 - 단지번호붙이기 [ [문제보기](https://www.acmicpc.net/problem/2667) \ [코드](week2/2667.py) ]
 
+</details>
+
+## 2️⃣ Week3
+
+> #### KEYWORD
+>
+> - 다이나믹 프로그래밍(배낭 문제, LCS), 그리디 알고리즘, 분할 정복
+>
+> #
+
+<details open>
+<summary>문제보기</summary>
+<br>
+
+- 12865번 - 평범한 배낭 [ [문제보기](https://www.acmicpc.net/problem/12865) \ [코드](week2/12865.py) ]
 </details>
