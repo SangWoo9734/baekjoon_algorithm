@@ -49,7 +49,6 @@
 - 1110번 - 더하기 사이클 [ [문제보기](https://www.acmicpc.net/problem/1110) \ [코드](week1/1110.py) ]
 - 1182번 - 부분수열의 합 [ [문제보기](https://www.acmicpc.net/problem/1182) \ [코드](week1/1182.py) ]
 - 1992번 - 쿼드트리 [ [문제보기](https://www.acmicpc.net/problem/1992) \ [코드](week1/1992.py) ]
-- 1388번 - 바닥 장식 [ [문제보기](https://www.acmicpc.net/problem/1388) \ [코드](week1/1388.py) ]
 
 </details>
 
@@ -80,6 +79,7 @@
 - 1916번 - 최소비용 구하기 [ [문제보기](https://www.acmicpc.net/problem/1916) \ [코드](week2/1916.py) ]
 - 2665번 - 미로 만들기 [ [문제보기](https://www.acmicpc.net/problem/2665) \ [코드](week2/2665.py) ]
 - 21606번 - 아침 산책 [ [문제보기](https://www.acmicpc.net/problem/21606) \ [코드](week2/21606.py) ]
+- 1388번 - 바닥 장식 [ [문제보기](https://www.acmicpc.net/problem/1388) \ [코드](week1/1388.py) ]
 - 2667번 - 단지번호붙이기 [ [문제보기](https://www.acmicpc.net/problem/2667) \ [코드](week2/2667.py) ]
 
 </details>
