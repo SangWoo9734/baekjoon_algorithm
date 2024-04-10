@@ -103,5 +103,6 @@
 - 1946번 - 신입사원 [ [문제보기](https://www.acmicpc.net/problem/1946) \ [코드](week3/1946.py) ]
 - 9084번 - 동전 [ [문제보기](https://www.acmicpc.net/problem/9084) \ [코드](week3/9084.py) ]
 - 1541번 - 잃어버린 괄호 [ [문제보기](https://www.acmicpc.net/problem/1541) \ [코드](week3/1541.py) ]
-- 1931번 - 회의실 배정 [ [문제보기](https://www.acmicpc.net/problem/1931) \ [코드](week3/1931.py) ]
+- 1931번 - 회의실 배정 [ [문제보기](https://www.acmicpc.net/problem/1931) \ [코드](week3/11053.py) ]
+- 1931번 - 가장 긴 증가하는 부분 수열 [ [문제보기](https://www.acmicpc.net/problem/11053) \ [코드](week3/11053.py) ]
 </details>
