@@ -102,4 +102,5 @@
 - 1904번 - 01 타일 [ [문제보기](https://www.acmicpc.net/problem/1904) \ [코드](week3/1904.py) ]
 - 1946번 - 신입사원 [ [문제보기](https://www.acmicpc.net/problem/1946) \ [코드](week3/1946.py) ]
 - 9084번 - 동전 [ [문제보기](https://www.acmicpc.net/problem/9084) \ [코드](week3/9084.py) ]
+- 1541번 - 잃어버린 괄호 [ [문제보기](https://www.acmicpc.net/problem/1541) \ [코드](week3/1541.py) ]
 </details>
