@@ -52,6 +52,8 @@
 
 </details>
 
+<br />
+
 ## 2️⃣ Week2
 
 > #### KEYWORD
@@ -84,7 +86,9 @@
 
 </details>
 
-## 2️⃣ Week3
+<br />
+
+## 3️⃣ Week3
 
 > #### KEYWORD
 >
@@ -105,4 +109,27 @@
 - 1541번 - 잃어버린 괄호 [ [문제보기](https://www.acmicpc.net/problem/1541) \ [코드](week3/1541.py) ]
 - 1931번 - 회의실 배정 [ [문제보기](https://www.acmicpc.net/problem/1931) \ [코드](week3/11053.py) ]
 - 1931번 - 가장 긴 증가하는 부분 수열 [ [문제보기](https://www.acmicpc.net/problem/11053) \ [코드](week3/11053.py) ]
+<!-- - 2098번 - 외판원 순회 [ [문제보기](https://www.acmicpc.net/problem/2098) \ [코드](week3/2098.py) ] -->
+- 2579번 - 계단 오르기 [ [문제보기](https://www.acmicpc.net/problem/2579) \ [코드](week3/2579.py) ]
+- 1890번 - 점프 [ [문제보기](https://www.acmicpc.net/problem/1890) \ [코드](week3/1890.py) ]
+
+</details>
+
+<br />
+
+## 🔢 Algorithm Study
+
+> #### KEYWORD
+>
+> - 다이나믹 프로그래밍(배낭 문제, LCS), 그리디 알고리즘, 분할 정복
+>
+> #
+
+<details open>
+<summary>문제보기</summary>
+<br>
+
+- 1929번 - 소수 구하기 [ [문제보기](https://www.acmicpc.net/problem/1929) \ [코드](week3/1929.py) ]
+- 2609번 - 최대공약수와 최소공배수 [ [문제보기](https://www.acmicpc.net/problem/2609) \ [코드](week3/2609.py) ]
+
 </details>
