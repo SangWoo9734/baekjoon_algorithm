@@ -129,7 +129,8 @@
 <summary>문제보기</summary>
 <br>
 
-- 1929번 - 소수 구하기 [ [문제보기](https://www.acmicpc.net/problem/1929) \ [코드](week3/1929.py) ]
-- 2609번 - 최대공약수와 최소공배수 [ [문제보기](https://www.acmicpc.net/problem/2609) \ [코드](week3/2609.py) ]
+- 1929번 - 소수 구하기 [ [문제보기](https://www.acmicpc.net/problem/1929) \ [코드](algorithm_study/1929.py) ]
+- 2609번 - 최대공약수와 최소공배수 [ [문제보기](https://www.acmicpc.net/problem/2609) \ [코드](algorithm_study/2609.py) ]
+- 9613번 - GCD 합 [ [문제보기](https://www.acmicpc.net/problem/9613) \ [코드](algorithm_study/9613.py) ]
 
 </details>
