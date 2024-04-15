@@ -121,7 +121,8 @@
 
 > #### KEYWORD
 >
-> - 다이나믹 프로그래밍(배낭 문제, LCS), 그리디 알고리즘, 분할 정복
+> - 월 ~ 토 09:00 ~ 10:00
+> - 하루 한 문제씩 풀고 풀이 아이디어 공유
 >
 > #
 
@@ -132,5 +133,6 @@
 - 1929번 - 소수 구하기 [ [문제보기](https://www.acmicpc.net/problem/1929) \ [코드](algorithm_study/1929.py) ]
 - 2609번 - 최대공약수와 최소공배수 [ [문제보기](https://www.acmicpc.net/problem/2609) \ [코드](algorithm_study/2609.py) ]
 - 9613번 - GCD 합 [ [문제보기](https://www.acmicpc.net/problem/9613) \ [코드](algorithm_study/9613.py) ]
+- 17087번 - 숨바꼭질 6 [ [문제보기](https://www.acmicpc.net/problem/17087) \ [코드](algorithm_study/17087.py) ]
 
 </details>
