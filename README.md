@@ -134,5 +134,6 @@
 - 2609번 - 최대공약수와 최소공배수 [ [문제보기](https://www.acmicpc.net/problem/2609) \ [코드](algorithm_study/2609.py) ]
 - 9613번 - GCD 합 [ [문제보기](https://www.acmicpc.net/problem/9613) \ [코드](algorithm_study/9613.py) ]
 - 17087번 - 숨바꼭질 6 [ [문제보기](https://www.acmicpc.net/problem/17087) \ [코드](algorithm_study/17087.py) ]
+- 17103번 - 골드바흐 파티션 [ [문제보기](https://www.acmicpc.net/problem/17103) \ [코드](algorithm_study/17103.py) ]
 
 </details>
