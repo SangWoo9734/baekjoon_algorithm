@@ -136,5 +136,6 @@
 - 17087번 - 숨바꼭질 6 [ [문제보기](https://www.acmicpc.net/problem/17087) \ [코드](algorithm_study/17087.py) ]
 - 17103번 - 골드바흐 파티션 [ [문제보기](https://www.acmicpc.net/problem/17103) \ [코드](algorithm_study/17103.py) ]
 - 2004번 - 조합 0의 개수 [ [문제보기](https://www.acmicpc.net/problem/2004) \ [코드](algorithm_study/2004.py) ]
+- 11726번 - 2xn 타일링 [ [문제보기](https://www.acmicpc.net/problem/11726) \ [코드](algorithm_study/11726.py) ]
 
 </details>
