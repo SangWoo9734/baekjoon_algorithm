@@ -138,5 +138,6 @@
 - 2004번 - 조합 0의 개수 [ [문제보기](https://www.acmicpc.net/problem/2004) \ [코드](algorithm_study/2004.py) ]
 - 11726번 - 2xn 타일링 [ [문제보기](https://www.acmicpc.net/problem/11726) \ [코드](algorithm_study/11726.py) ]
 - 11727번 - 2xn 타일링 2 [ [문제보기](https://www.acmicpc.net/problem/11727) \ [코드](algorithm_study/11727.py) ]
+- 1463번 - 1로 만들기 [ [문제보기](https://www.acmicpc.net/problem/1463) \ [코드](algorithm_study/1463.py) ]
 
 </details>
