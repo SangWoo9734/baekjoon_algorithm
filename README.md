@@ -139,5 +139,6 @@
 - 11726번 - 2xn 타일링 [ [문제보기](https://www.acmicpc.net/problem/11726) \ [코드](algorithm_study/11726.py) ]
 - 11727번 - 2xn 타일링 2 [ [문제보기](https://www.acmicpc.net/problem/11727) \ [코드](algorithm_study/11727.py) ]
 - 1463번 - 1로 만들기 [ [문제보기](https://www.acmicpc.net/problem/1463) \ [코드](algorithm_study/1463.py) ]
+- 11052번 - 카드 구매하기 [ [문제보기](https://www.acmicpc.net/problem/11052) \ [코드](algorithm_study/11052.py) ]
 
 </details>
