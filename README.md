@@ -141,6 +141,6 @@
 - 1463번 - 1로 만들기 [ [문제보기](https://www.acmicpc.net/problem/1463) \ [코드](algorithm_study/1463.py) ]
 - 11052번 - 카드 구매하기 [ [문제보기](https://www.acmicpc.net/problem/11052) \ [코드](algorithm_study/11052.py) ]
 - 16194번 - 카드 구매하기2 [ [문제보기](https://www.acmicpc.net/problem/16194) \ [코드](algorithm_study/16194.py) ]
-- \[프로그래머스\] 1844번 - 게임 맵 최단거리 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/1844) \ [코드](algorithm_study/p_1844.py) ]
+- 1406번 - 에디터 [ [문제보기](https://www.acmicpc.net/problem/1406) \ [코드](algorithm_study/1406.py) ]
 
 </details>
