@@ -143,5 +143,6 @@
 - 16194번 - 카드 구매하기2 [ [문제보기](https://www.acmicpc.net/problem/16194) \ [코드](algorithm_study/16194.py) ]
 - 1406번 - 에디터 [ [문제보기](https://www.acmicpc.net/problem/1406) \ [코드](algorithm_study/1406.py) ]
 - 10844번 - 쉬운 계단 수 [ [문제보기](https://www.acmicpc.net/problem/10844) \ [코드](algorithm_study/10844.py) ]
+- 15990번 - 1, 2, 3 더하기 5 [ [문제보기](https://www.acmicpc.net/problem/15990) \ [코드](algorithm_study/15990.py) ]
 
 </details>
