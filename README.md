@@ -144,5 +144,6 @@
 - 1406번 - 에디터 [ [문제보기](https://www.acmicpc.net/problem/1406) \ [코드](algorithm_study/1406.py) ]
 - 10844번 - 쉬운 계단 수 [ [문제보기](https://www.acmicpc.net/problem/10844) \ [코드](algorithm_study/10844.py) ]
 - 15990번 - 1, 2, 3 더하기 5 [ [문제보기](https://www.acmicpc.net/problem/15990) \ [코드](algorithm_study/15990.py) ]
+- 1149번 - RGB거리 [ [문제보기](https://www.acmicpc.net/problem/1149) \ [코드](algorithm_study/1149.py) ]
 
 </details>
