@@ -145,5 +145,7 @@
 - 10844번 - 쉬운 계단 수 [ [문제보기](https://www.acmicpc.net/problem/10844) \ [코드](algorithm_study/10844.py) ]
 - 15990번 - 1, 2, 3 더하기 5 [ [문제보기](https://www.acmicpc.net/problem/15990) \ [코드](algorithm_study/15990.py) ]
 - 1149번 - RGB거리 [ [문제보기](https://www.acmicpc.net/problem/1149) \ [코드](algorithm_study/1149.py) ]
+- 2225번 - 합분해 [ [문제보기](https://www.acmicpc.net/problem/2225) \ [코드](algorithm_study/2225.py) ]
+- 1003번 - 피보나치 함수 [ [문제보기](https://www.acmicpc.net/problem/1003) \ [코드](algorithm_study/1003.py) ]
 
 </details>
