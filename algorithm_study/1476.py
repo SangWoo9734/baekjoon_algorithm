@@ -25,9 +25,9 @@ print(y)
 #   y += 1
 
 # solution 2 -- ??
-e, s, m = map(int, input().split())
-all = 15 * 28 * 19
-x = (6916 * e + 4845 * s + 4200 * m) % all
-if x == 0:
-    x = all
-print(x)
+# e, s, m = map(int, input().split())
+# all = 15 * 28 * 19
+# x = (6916 * e + 4845 * s + 4200 * m) % all
+# if x == 0:
+#     x = all
+# print(x)
