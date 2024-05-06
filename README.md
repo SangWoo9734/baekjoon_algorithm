@@ -147,5 +147,6 @@
 - 1149번 - RGB거리 [ [문제보기](https://www.acmicpc.net/problem/1149) \ [코드](algorithm_study/1149.py) ]
 - 2225번 - 합분해 [ [문제보기](https://www.acmicpc.net/problem/2225) \ [코드](algorithm_study/2225.py) ]
 - 1003번 - 피보나치 함수 [ [문제보기](https://www.acmicpc.net/problem/1003) \ [코드](algorithm_study/1003.py) ]
+- 1476번 - 날짜 계산 [ [문제보기](https://www.acmicpc.net/problem/1476) \ [코드](algorithm_study/1476.py) ]
 
 </details>
