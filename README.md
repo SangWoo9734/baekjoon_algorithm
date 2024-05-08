@@ -149,5 +149,6 @@
 - 1003번 - 피보나치 함수 [ [문제보기](https://www.acmicpc.net/problem/1003) \ [코드](algorithm_study/1003.py) ]
 - 1476번 - 날짜 계산 [ [문제보기](https://www.acmicpc.net/problem/1476) \ [코드](algorithm_study/1476.py) ]
 - 1107번 - 리모컨 [ [문제보기](https://www.acmicpc.net/problem/1107) \ [코드](algorithm_study/1107.py) ]
+- 14500번 - 테트로미노 [ [문제보기](https://www.acmicpc.net/problem/14500) \ [코드](algorithm_study/14500.py) ]
 
 </details>
