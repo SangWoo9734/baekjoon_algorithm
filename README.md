@@ -152,5 +152,6 @@
 - 14500번 - 테트로미노 [ [문제보기](https://www.acmicpc.net/problem/14500) \ [코드](algorithm_study/14500.py) ]
 - 6064번 - 카잉 달력 [ [문제보기](https://www.acmicpc.net/problem/6064) \ [코드](algorithm_study/6064.py) ]
 - 1309번 - 동물원 [ [문제보기](https://www.acmicpc.net/problem/1309) \ [코드](algorithm_study/1309.py) ]
+- 1748번 - 수 이어 쓰기 1 [ [문제보기](https://www.acmicpc.net/problem/1748) \ [코드](algorithm_study/1748.py) ]
 
 </details>
