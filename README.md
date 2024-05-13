@@ -153,5 +153,6 @@
 - 6064번 - 카잉 달력 [ [문제보기](https://www.acmicpc.net/problem/6064) \ [코드](algorithm_study/6064.py) ]
 - 1309번 - 동물원 [ [문제보기](https://www.acmicpc.net/problem/1309) \ [코드](algorithm_study/1309.py) ]
 - 1748번 - 수 이어 쓰기 1 [ [문제보기](https://www.acmicpc.net/problem/1748) \ [코드](algorithm_study/1748.py) ]
+- 10972번 - 다음 순열 [ [문제보기](https://www.acmicpc.net/problem/10972) \ [코드](algorithm_study/10972.py) ]
 
 </details>
