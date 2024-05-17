@@ -156,5 +156,7 @@
 - 10972번 - 다음 순열 [ [문제보기](https://www.acmicpc.net/problem/10972) \ [코드](algorithm_study/10972.py) ]
 - 1759번 - 암호 만들기[ [문제보기](https://www.acmicpc.net/problem/1759) \ [코드](algorithm_study/1759.py) ]
 - 1074번 - Z [ [문제보기](https://www.acmicpc.net/problem/1074) \ [코드](algorithm_study/1074.py) ]
+- 14889번 - 스타트와 링크 [ [문제보기](https://www.acmicpc.net/problem/14889) \ [코드](algorithm_study/14889.py) ]
+
 
 </details>
