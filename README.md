@@ -159,5 +159,6 @@
 - 14889번 - 스타트와 링크 [ [문제보기](https://www.acmicpc.net/problem/14889) \ [코드](algorithm_study/14889.py) ]
 - 2529번 - 부등호 [ [문제보기](https://www.acmicpc.net/problem/2529) \ [코드](algorithm_study/2529.py) ]
 - 11723번 - 집합 [ [문제보기](https://www.acmicpc.net/problem/11723) \ [코드](algorithm_study/11723.py) ]
+- 13023번 - ABCDE [ [문제보기](https://www.acmicpc.net/problem/13023) \ [코드](algorithm_study/13023.py) ]
 
 </details>
