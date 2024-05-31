@@ -163,5 +163,6 @@
 - 1707번 - 이분 그래프 [ [문제보기](https://www.acmicpc.net/problem/1707) \ [코드](algorithm_study/1707.py) ]
 - 4963번 - 섬의 개수 [ [문제보기](https://www.acmicpc.net/problem/4963) \ [코드](algorithm_study/4963.py) ]
 - 16929번 - Two dots [ [문제보기](https://www.acmicpc.net/problem/16929) \ [코드](algorithm_study/16929.py) ]
+- 16947번 - 서울 지하철 2호선 [ [문제보기](https://www.acmicpc.net/problem/16947) \ [코드](algorithm_study/16947.py) ]
 
 </details>
