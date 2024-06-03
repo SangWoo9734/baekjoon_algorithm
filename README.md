@@ -164,5 +164,6 @@
 - 4963번 - 섬의 개수 [ [문제보기](https://www.acmicpc.net/problem/4963) \ [코드](algorithm_study/4963.py) ]
 - 16929번 - Two dots [ [문제보기](https://www.acmicpc.net/problem/16929) \ [코드](algorithm_study/16929.py) ]
 - 16947번 - 서울 지하철 2호선 [ [문제보기](https://www.acmicpc.net/problem/16947) \ [코드](algorithm_study/16947.py) ]
+- 16964번 - DFS 스페셜 저지 ( 답안 참고 했음 ) [ [문제보기](https://www.acmicpc.net/problem/16964) \ [코드](algorithm_study/16964.py) ]
 
 </details>
