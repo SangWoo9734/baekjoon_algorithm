@@ -167,5 +167,6 @@
 - 16964번 - DFS 스페셜 저지 ( 답안 참고 했음 ) [ [문제보기](https://www.acmicpc.net/problem/16964) \ [코드](algorithm_study/16964.py) ]
 - 2146번 - 다리 만들기 [ [문제보기](https://www.acmicpc.net/problem/2146) \ [코드](algorithm_study/2146.py) ]
 - 9372번 - 상근이의 여행 [ [문제보기](https://www.acmicpc.net/problem/9372) \ [코드](algorithm_study/9372.py) ]
+- 1697번 - 숨바꼭질 [ [문제보기](https://www.acmicpc.net/problem/1697) \ [코드](algorithm_study/1697.py) ]
 
 </details>
