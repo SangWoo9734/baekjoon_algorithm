@@ -169,5 +169,6 @@
 - 9372번 - 상근이의 여행 [ [문제보기](https://www.acmicpc.net/problem/9372) \ [코드](algorithm_study/9372.py) ]
 - 1697번 - 숨바꼭질 [ [문제보기](https://www.acmicpc.net/problem/1697) \ [코드](algorithm_study/1697.py) ]
 - 4097번 - 수익 [ [문제보기](https://www.acmicpc.net/problem/4097) \ [코드](algorithm_study/4097.py) ]
+- 17123번 - 배열 놀이 [ [문제보기](https://www.acmicpc.net/problem/17123) \ [코드](algorithm_study/17123.py) ]
 
 </details>
