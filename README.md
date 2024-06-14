@@ -171,5 +171,6 @@
 - 4097번 - 수익 [ [문제보기](https://www.acmicpc.net/problem/4097) \ [코드](algorithm_study/4097.py) ]
 - 17123번 - 배열 놀이 [ [문제보기](https://www.acmicpc.net/problem/17123) \ [코드](algorithm_study/17123.py) ]
 - 1269번 - 대칭 차집합 [ [문제보기](https://www.acmicpc.net/problem/1269) \ [코드](algorithm_study/1269.py) ]
+- 7562번 - 나이트의 이동 [ [문제보기](https://www.acmicpc.net/problem/7562) \ [코드](algorithm_study/7562.py) ]
 
 </details>
