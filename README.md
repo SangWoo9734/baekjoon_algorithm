@@ -172,5 +172,7 @@
 - 17123번 - 배열 놀이 [ [문제보기](https://www.acmicpc.net/problem/17123) \ [코드](algorithm_study/17123.py) ]
 - 1269번 - 대칭 차집합 [ [문제보기](https://www.acmicpc.net/problem/1269) \ [코드](algorithm_study/1269.py) ]
 - 7562번 - 나이트의 이동 [ [문제보기](https://www.acmicpc.net/problem/7562) \ [코드](algorithm_study/7562.py) ]
+- 2231번 - 분해합 [ [문제보기](https://www.acmicpc.net/problem/2231) \ [코드](algorithm_study/2231.py) ]
+- 9935번 - 문자열 폭발 [ [문제보기](https://www.acmicpc.net/problem/9935) \ [코드](algorithm_study/9935.py) ]
 
 </details>
