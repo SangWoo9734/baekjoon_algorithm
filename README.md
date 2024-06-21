@@ -175,5 +175,6 @@
 - 2231번 - 분해합 [ [문제보기](https://www.acmicpc.net/problem/2231) \ [코드](algorithm_study/2231.py) ]
 - 9935번 - 문자열 폭발 [ [문제보기](https://www.acmicpc.net/problem/9935) \ [코드](algorithm_study/9935.py) ]
 - 6603번 - 로또 [ [문제보기](https://www.acmicpc.net/problem/6603) \ [코드](algorithm_study/6603.py) ]
+- 1654번 - 랜선 자르기 (재) [ [문제보기](https://www.acmicpc.net/problem/1654) \ [코드](algorithm_study/1654.py) ]
 
 </details>
