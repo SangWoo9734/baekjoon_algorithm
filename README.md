@@ -176,5 +176,6 @@
 - 9935번 - 문자열 폭발 [ [문제보기](https://www.acmicpc.net/problem/9935) \ [코드](algorithm_study/9935.py) ]
 - 6603번 - 로또 [ [문제보기](https://www.acmicpc.net/problem/6603) \ [코드](algorithm_study/6603.py) ]
 - 1654번 - 랜선 자르기 (재) [ [문제보기](https://www.acmicpc.net/problem/1654) \ [코드](algorithm_study/1654.py) ]
+- 1932번 - 정수 삼각형 [ [문제보기](https://www.acmicpc.net/problem/1932) \ [코드](algorithm_study/1932.py) ]
 
 </details>
