@@ -178,5 +178,6 @@
 - 1654번 - 랜선 자르기 (재) [ [문제보기](https://www.acmicpc.net/problem/1654) \ [코드](algorithm_study/1654.py) ]
 - 1932번 - 정수 삼각형 [ [문제보기](https://www.acmicpc.net/problem/1932) \ [코드](algorithm_study/1932.py) ]
 - 10815번 - 숫자 카드 [ [문제보기](https://www.acmicpc.net/problem/10815) \ [코드](algorithm_study/10815.py) ]
+- 1965번 - 상자넣기 [ [문제보기](https://www.acmicpc.net/problem/1965) \ [코드](algorithm_study/1965.py) ]
 
 </details>
