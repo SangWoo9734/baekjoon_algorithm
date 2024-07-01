@@ -179,5 +179,6 @@
 - 1932번 - 정수 삼각형 [ [문제보기](https://www.acmicpc.net/problem/1932) \ [코드](algorithm_study/1932.py) ]
 - 10815번 - 숫자 카드 [ [문제보기](https://www.acmicpc.net/problem/10815) \ [코드](algorithm_study/10815.py) ]
 - 1965번 - 상자넣기 [ [문제보기](https://www.acmicpc.net/problem/1965) \ [코드](algorithm_study/1965.py) ]
+- 8595번 - 히든넘버 [ [문제보기](https://www.acmicpc.net/problem/8595) \ [코드](algorithm_study/8595.py) ]
 
 </details>
