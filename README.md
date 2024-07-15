@@ -182,5 +182,6 @@
 - 8595번 - 히든넘버 [ [문제보기](https://www.acmicpc.net/problem/8595) \ [코드](algorithm_study/8595.py) ]
 - 1303번 - 전쟁 - 전투 [ [문제보기](https://www.acmicpc.net/problem/1303) \ [코드](algorithm_study/1303.py) ]
 - 2644번 - 촌수 계산 [ [문제보기](https://www.acmicpc.net/problem/2644) \ [코드](algorithm_study/2644.py) ]
+- 5014번 - 스타트링크 [ [문제보기](https://www.acmicpc.net/problem/5014) \ [코드](algorithm_study/5014.py) ]
 
 </details>
