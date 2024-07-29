@@ -185,4 +185,5 @@
 - 5014번 - 스타트링크 [ [문제보기](https://www.acmicpc.net/problem/5014) \ [코드](algorithm_study/5014.py) ]
 - p_43162번 - 네트워크 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/43162) \ [코드](algorithm_study/p_43162.py) ]
 - 1926번 - 그림 [ [문제보기](https://www.acmicpc.net/problem/1926) \ [코드](algorithm_study/1926.py) ]
+- 20006번 - 랭킹전 대기열 [ [문제보기](https://www.acmicpc.net/problem/20006) \ [코드](algorithm_study/20006.py) ]
 </details>
