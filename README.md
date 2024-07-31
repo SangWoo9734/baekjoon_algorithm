@@ -187,4 +187,5 @@
 - 1926번 - 그림 [ [문제보기](https://www.acmicpc.net/problem/1926) \ [코드](algorithm_study/1926.py) ]
 - 20006번 - 랭킹전 대기열 [ [문제보기](https://www.acmicpc.net/problem/20006) \ [코드](algorithm_study/20006.py) ]
 - 7576번 - 토마토(2차원) [ [문제보기](https://www.acmicpc.net/problem/7576) \ [코드](algorithm_study/7576.py) ]
+- 7569번 - 토마토(3차원) [ [문제보기](https://www.acmicpc.net/problem/7569) \ [코드](algorithm_study/7569.py) ]
 </details>
