@@ -189,4 +189,5 @@
 - 7576번 - 토마토(2차원) [ [문제보기](https://www.acmicpc.net/problem/7576) \ [코드](algorithm_study/7576.py) ]
 - 7569번 - 토마토(3차원) [ [문제보기](https://www.acmicpc.net/problem/7569) \ [코드](algorithm_study/7569.py) ]
 - 2583번 - 영역 구하기 [ [문제보기](https://www.acmicpc.net/problem/2583) \ [코드](algorithm_study/2583.py) ]
+- 2468번 - 안전영역 [ [문제보기](https://www.acmicpc.net/problem/2468) \ [코드](algorithm_study/2468.py) ]
 </details>
