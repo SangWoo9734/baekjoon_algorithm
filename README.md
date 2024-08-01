@@ -191,4 +191,5 @@
 - 2583번 - 영역 구하기 [ [문제보기](https://www.acmicpc.net/problem/2583) \ [코드](algorithm_study/2583.py) ]
 - 2468번 - 안전영역 [ [문제보기](https://www.acmicpc.net/problem/2468) \ [코드](algorithm_study/2468.py) ]
 - 10026번 - 적록색약 [ [문제보기](https://www.acmicpc.net/problem/10026) \ [코드](algorithm_study/10026.py) ]
+- 1012번 - 유기농 배추 [ [문제보기](https://www.acmicpc.net/problem/1012) \ [코드](algorithm_study/1012.py) ]
 </details>
