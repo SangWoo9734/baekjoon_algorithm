@@ -192,4 +192,5 @@
 - 2468번 - 안전영역 [ [문제보기](https://www.acmicpc.net/problem/2468) \ [코드](algorithm_study/2468.py) ]
 - 10026번 - 적록색약 [ [문제보기](https://www.acmicpc.net/problem/10026) \ [코드](algorithm_study/10026.py) ]
 - 1012번 - 유기농 배추 [ [문제보기](https://www.acmicpc.net/problem/1012) \ [코드](algorithm_study/1012.py) ]
+- 14226번 - 이모티콘 [ [문제보기](https://www.acmicpc.net/problem/14226) \ [코드](algorithm_study/14226.py) ]
 </details>
