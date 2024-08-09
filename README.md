@@ -126,6 +126,10 @@
 >
 > #
 
+### 스터디 링크
+
+[바로가기](https://www.notion.so/1080cae9659849709ca086c95a1fa36c)
+
 <details open>
 <summary>문제보기</summary>
 <br>
@@ -194,4 +198,5 @@
 - 1012번 - 유기농 배추 [ [문제보기](https://www.acmicpc.net/problem/1012) \ [코드](algorithm_study/1012.py) ]
 - 14226번 - 이모티콘 [ [문제보기](https://www.acmicpc.net/problem/14226) \ [코드](algorithm_study/14226.py) ]
 - 16987번 - 계란으로 계란치기 [ [문제보기](https://www.acmicpc.net/problem/16987) \ [코드](algorithm_study/16987.py) ]
+- 4446번 - ROT13 [ [문제보기](https://www.acmicpc.net/problem/4446) \ [코드](algorithm_study/4446.py) ]
 </details>
