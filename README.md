@@ -199,4 +199,5 @@
 - 14226번 - 이모티콘 [ [문제보기](https://www.acmicpc.net/problem/14226) \ [코드](algorithm_study/14226.py) ]
 - 16987번 - 계란으로 계란치기 [ [문제보기](https://www.acmicpc.net/problem/16987) \ [코드](algorithm_study/16987.py) ]
 - 4446번 - ROT13 [ [문제보기](https://www.acmicpc.net/problem/4446) \ [코드](algorithm_study/4446.py) ]
+- p_43162번 - 전력망을 둘로 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) \ [코드](algorithm_study/p_43162.py) ]
 </details>
