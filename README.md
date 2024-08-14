@@ -200,4 +200,5 @@
 - 16987번 - 계란으로 계란치기 [ [문제보기](https://www.acmicpc.net/problem/16987) \ [코드](algorithm_study/16987.py) ]
 - 4446번 - ROT13 [ [문제보기](https://www.acmicpc.net/problem/4446) \ [코드](algorithm_study/4446.py) ]
 - p_86971번 - 전력망을 둘로 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) \ [코드](algorithm_study/p_86971.py) ]
+- 14501번 - 퇴사 [ [문제보기](https://www.acmicpc.net/problem/14501) \ [코드](algorithm_study/14501.py) ]
 </details>
