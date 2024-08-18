@@ -202,4 +202,5 @@
 - p_86971번 - 전력망을 둘로 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) \ [코드](algorithm_study/p_86971.py) ]
 - 14501번 - 퇴사 [ [문제보기](https://www.acmicpc.net/problem/14501) \ [코드](algorithm_study/14501.py) ]
 - p_159993번 - 전력망을 둘로 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/159993) \ [코드](algorithm_study/p_159993.py) ]
+- 13913번 - 숨바꼭질 4 [ [문제보기](https://www.acmicpc.net/problem/13913) \ [코드](algorithm_study/13913.py) ]
 </details>
