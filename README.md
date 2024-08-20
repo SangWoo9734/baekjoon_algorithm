@@ -203,4 +203,5 @@
 - 14501번 - 퇴사 [ [문제보기](https://www.acmicpc.net/problem/14501) \ [코드](algorithm_study/14501.py) ]
 - p_159993번 - 전력망을 둘로 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/159993) \ [코드](algorithm_study/p_159993.py) ]
 - 13913번 - 숨바꼭질 4 [ [문제보기](https://www.acmicpc.net/problem/13913) \ [코드](algorithm_study/13913.py) ]
+- p_258711번 - 도넛과 막대 그래프 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/258711) \ [코드](algorithm_study/p_258711.py) ]
 </details>
