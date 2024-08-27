@@ -207,4 +207,5 @@
 - p_92341번 - 주차 요금 계산 [ [문제보기](https://www.acmicpc.net/problem/p_92341) \ [코드](algorithm_study/p_92341.py) ]
 - 1261번 - 알고스팟 [ [문제보기](https://www.acmicpc.net/problem/1261) \ [코드](algorithm_study/1261.py) ]
 - 1874번 - 스택 수열 [ [문제보기](https://www.acmicpc.net/problem/1874) \ [코드](algorithm_study/1874.py) ]
+- 17269번 - 이름궁합 테스트 [ [문제보기](https://www.acmicpc.net/problem/17269) \ [코드](algorithm_study/17269.py) ]
 </details>
