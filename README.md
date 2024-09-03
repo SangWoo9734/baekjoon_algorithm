@@ -210,4 +210,5 @@
 - 17269번 - 이름궁합 테스트 [ [문제보기](https://www.acmicpc.net/problem/17269) \ [코드](algorithm_study/17269.py) ]
 - 16206번 - 롤케이크 [ [문제보기](https://www.acmicpc.net/problem/16206) \ [코드](algorithm_study/16206.py) ]
 - 1730번 - 판화 [ [문제보기](https://www.acmicpc.net/problem/1730) \ [코드](algorithm_study/1730.py) ]
+- 2477번 - 참외밭 [ [문제보기](https://www.acmicpc.net/problem/2477) \ [코드](algorithm_study/2477.py) ]
 </details>
