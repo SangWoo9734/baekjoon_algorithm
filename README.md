@@ -212,4 +212,5 @@
 - 1730번 - 판화 [ [문제보기](https://www.acmicpc.net/problem/1730) \ [코드](algorithm_study/1730.py) ]
 - 2477번 - 참외밭 [ [문제보기](https://www.acmicpc.net/problem/2477) \ [코드](algorithm_study/2477.py) ]
 - 4659번 - 비밀번호 발음하기 [ [문제보기](https://www.acmicpc.net/problem/4659) \ [코드](algorithm_study/4659.py) ]
+- p_250136번 - 석유 시추 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/250136) \ [코드](algorithm_study/p_250136.py) ]
 </details>
