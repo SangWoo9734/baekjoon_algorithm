@@ -213,5 +213,6 @@
 - 2477번 - 참외밭 [ [문제보기](https://www.acmicpc.net/problem/2477) \ [코드](algorithm_study/2477.py) ]
 - 4659번 - 비밀번호 발음하기 [ [문제보기](https://www.acmicpc.net/problem/4659) \ [코드](algorithm_study/4659.py) ]
 - p_250136번 - 석유 시추 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/250136) \ [코드](algorithm_study/p_250136.py) ]
-- p_43163번 - 단어 변환 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/p_43163) \ [코드](algorithm_study/p_43163.py) ]
+- p_43163번 - 단어 변환 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/43163) \ [코드](algorithm_study/p_43163.py) ]
+- p_17687번 - [3차] n진수 게임 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/17687) \ [코드](algorithm_study/p_17687.py) ]
 </details>
