@@ -218,4 +218,5 @@
 - 14235번 - 크리스마스 선물 [ [문제보기](https://www.acmicpc.net/problem/14235) \ [코드](algorithm_study/14235.py) ]
 - p_250137번 - 붕대 감기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) \ [코드](algorithm_study/p_250137.py) ]
 - p_340213번 - 동영상 재생기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) \ [코드](algorithm_study/p_340213.py) ]
+- p_340212번 - 퍼즐 게임 챌린지 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/340212) \ [코드](algorithm_study/p_340212.py) ]
 </details>
