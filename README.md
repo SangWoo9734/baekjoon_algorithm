@@ -220,5 +220,6 @@
 - p_340213번 - 동영상 재생기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) \ [코드](algorithm_study/p_340213.py) ]
 - p_340212번 - 퍼즐 게임 챌린지 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/340212) \ [코드](algorithm_study/p_340212.py) ]
 - 1753번 - 최단경로 [ [문제보기](https://www.acmicpc.net/problem/1753) \ [코드](algorithm_study/1753.py) ]
+- p_1844번 - 퍼즐 게임 챌린지 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/1844) \ [코드](algorithm_study/p_1844.py) ]
 </details>
 </details>
