@@ -1,128 +1,43 @@
 import sys
+from collections import deque
 
 input = sys.stdin.readline
 
 N = int(input())
 
-adj = [list( map(int, input().split()) )for _ in range(N - 1) ]
+graph = [ set() for _ in range(N + 1) ]
 
-res_ex = list(map(int, input().split()))
+for _ in range(N - 1):
+  a, b = map(int , input().split())
 
-sorted_adj = list(map(list, permutations(adj, N - 1)))
+  graph[a].add(b)
+  graph[b].add(a)
 
-cases = []
-
-res = []
-
-for sa in sorted_adj:
-  sa.sort(key= lambda x: x[0])
-
-  if sa not in cases:
-    cases.append(sa)
-
-print(*cases, sep='\n')
+target = list(map(int, input().split()))
 
 
-for case in cases:
+i = 1
 
-  adj_list = [ [] for _ in range(N + 1) ]
+q = deque([1])
+
+ans = 1
+
+while i < N:
+
+  q.append(target[i])
+
+  while len(graph[q[0]]) == 0:
+    q.popleft()
   
-  for a in case:
-    i, j = a
+  if target[i] not in graph[q[0]]:
+    ans = 0
 
-    adj_list[i].append(j)
-    adj_list[j].append(i)
-
-  # print(*adj_list, sep='\n')
-
-  case_res = [1]
-  visited = [ False ] * ( N + 1 )
-
-  q = deque()
-  q.append(1)
-  visited[1] = True
-
-  while q:
-    cur = q.popleft()
-
-    for i in adj_list[cur]:
-      if not visited[i]:
-        visited[i] = True
-        q.append(i)
-        case_res.append(i)
-
-  # print(case_res)
-
-  # print("----------")
-
-  if case_res not in res:
-    res.append(case_res)
-
-# print(res)
-print( 1 if res_ex in res else 0 )
-
-
-# import sys
-# from collections import deque
-# from itertools import permutations, combinations
-
-# input = sys.stdin.readline
-
-# N = int(input())
-
-# adj = [list( map(int, input().split()) )for _ in range(N - 1) ]
-
-# res_ex = list(map(int, input().split()))
-
-# sorted_adj = list(map(list, permutations(adj, N - 1)))
-
-# cases = []
-
-# res = []
-
-# for sa in sorted_adj:
-#   sa.sort(key= lambda x: x[0])
-
-#   if sa not in cases:
-#     cases.append(sa)
-
-# print(*cases, sep='\n')
-
-
-# for case in cases:
-
-#   adj_list = [ [] for _ in range(N + 1) ]
+    break
   
-#   for a in case:
-#     i, j = a
 
-#     adj_list[i].append(j)
-#     adj_list[j].append(i)
+  graph[q[0]] -= set([target[i]])
+  graph[target[i]] -= set([q[0]])
 
-#   # print(*adj_list, sep='\n')
+  i += 1
 
-#   case_res = [1]
-#   visited = [ False ] * ( N + 1 )
-
-#   q = deque()
-#   q.append(1)
-#   visited[1] = True
-
-#   while q:
-#     cur = q.popleft()
-
-#     for i in adj_list[cur]:
-#       if not visited[i]:
-#         visited[i] = True
-#         q.append(i)
-#         case_res.append(i)
-
-#   # print(case_res)
-
-#   # print("----------")
-
-#   if case_res not in res:
-#     res.append(case_res)
-
-# # print(res)
-# print( 1 if res_ex in res else 0 )
+print(ans)
