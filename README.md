@@ -222,4 +222,6 @@
 - 1753번 - 최단경로 [ [문제보기](https://www.acmicpc.net/problem/1753) \ [코드](algorithm_study/1753.py) ]
 - p_1844번 - 퍼즐 게임 챌린지 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/1844) \ [코드](algorithm_study/p_1844.py) ]
 - 11728번 - 배열 합치기 [ [문제보기](https://www.acmicpc.net/problem/11728) \ [코드](algorithm_study/11728.py) ]
+- p_154540번 - 무인도 여행 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/154540) \ [코드](algorithm_study/p_154540.py) ]
+</details>
 </details>
