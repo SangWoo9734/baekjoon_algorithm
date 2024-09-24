@@ -225,4 +225,5 @@
 - p_154540번 - 무인도 여행 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/154540) \ [코드](algorithm_study/p_154540.py) ]
 - 16940번 - BFS 스페셜 저지 [ [문제보기](https://www.acmicpc.net/problem/16940) \ [코드](algorithm_study/16940.py) ]
 - 13398번 - 연속합 2 [ [문제보기](https://www.acmicpc.net/problem/13398) \ [코드](algorithm_study/13398.py) ]
+- 8595번 - 히든넘버 [ [문제보기](https://www.acmicpc.net/problem/8595) \ [코드](algorithm_study/8595.py) ]
 </details>
