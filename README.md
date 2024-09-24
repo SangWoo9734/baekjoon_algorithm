@@ -226,4 +226,6 @@
 - 16940번 - BFS 스페셜 저지 [ [문제보기](https://www.acmicpc.net/problem/16940) \ [코드](algorithm_study/16940.py) ]
 - 13398번 - 연속합 2 [ [문제보기](https://www.acmicpc.net/problem/13398) \ [코드](algorithm_study/13398.py) ]
 - 8595번 - 히든넘버 [ [문제보기](https://www.acmicpc.net/problem/8595) \ [코드](algorithm_study/8595.py) ]
+- 6603번 - 로또 [ [문제보기](https://www.acmicpc.net/problem/6603) \ [코드](algorithm_study/.py) ]
+- 2343번 - 기타 레슨 [ [문제보기](https://www.acmicpc.net/problem/2343) \ [코드](algorithm_study/2343.py) ]
 </details>
