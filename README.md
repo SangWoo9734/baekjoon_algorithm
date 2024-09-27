@@ -228,4 +228,5 @@
 - 8595번 - 히든넘버 [ [문제보기](https://www.acmicpc.net/problem/8595) \ [코드](algorithm_study/8595.py) ]
 - 6603번 - 로또 [ [문제보기](https://www.acmicpc.net/problem/6603) \ [코드](algorithm_study/.py) ]
 - 2343번 - 기타 레슨 [ [문제보기](https://www.acmicpc.net/problem/2343) \ [코드](algorithm_study/2343.py) ]
+- 17265번 - 나의 인생에는 수학과 함께 [ [문제보기](https://www.acmicpc.net/problem/17265) \ [코드](algorithm_study/17265.py) ]
 </details>
