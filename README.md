@@ -230,4 +230,5 @@
 - 2343번 - 기타 레슨 [ [문제보기](https://www.acmicpc.net/problem/2343) \ [코드](algorithm_study/2343.py) ]
 - 17265번 - 나의 인생에는 수학과 함께 [ [문제보기](https://www.acmicpc.net/problem/17265) \ [코드](algorithm_study/17265.py) ]
 - p_340211번 - 충돌 위험 찾기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) \ [코드](algorithm_study/p_340211.py) ]
+- 1025번 - 제곱수 찾기 [ [문제보기](https://www.acmicpc.net/problem/1025) \ [코드](algorithm_study/1025.py) ]
 </details>
