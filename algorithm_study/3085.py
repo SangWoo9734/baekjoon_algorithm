@@ -1,76 +1,53 @@
 import sys
-
+from collections import Counter
+from collections import deque
 input = sys.stdin.readline
 
 N = int(input())
 
 board = [ list(input().rstrip()) for _ in range(N) ]
+visited = [ [ 0 for _ in range(N) ] for _ in range(N) ]
 
-print(board)
+def get_count(arr):
+  max_count = 1
+  count = 1
+  for a in range(1, len(arr)):
+    if arr[a] == arr[a - 1]:
+      count += 1
+    else:
+      max_count = max(count, max_count)
+      count = 1
 
-count_board = [ [ [0, 0] for _ in range(N) ] for _ in range(N) ]
-
-count_board[0][0] = [1, 1]
-
-def set_board_count(count_board, i, j):
-  print(f'i: {i}, j: {j}')
-  if i > 0 and board[i][j] == board[i-1][j]:
-    count_board[i][j][0] = count_board[i-1][j][0] + 1
-  else:
-    count_board[i][j][0] = count_board[i-1][j][0]
-
-  if j > 0 and board[i][j] == board[i][j-1]:
-    count_board[i][j][1] = count_board[i][j-1][1] + 1
-  else:
-    count_board[i][j][1] = count_board[i][j-1][1] 
-    
+  max_count = max(count, max_count)
   
-  return count_board
-
-
-def get_max_count(board):
-
-  max_count = 0
-  for i in range(N):
-    for j in range(N):
-      count_board = set_board_count(count_board, i, j)
-      if max_count < count_board[i][j]:
-        max_count = count_board[i][j]
-
   return max_count
 
 m_count = 0
 
-dx = [1, 0, -1, 0]
-dy = [0, -1, 0, 1]
+dx = [1, 0]
+dy = [0, 1]
 
-# setting initial count board
 for i in range(N):
-  for j in range(N):
-    count_board = set_board_count(count_board, i, j)
+  m_count = max(m_count, get_count([ board[i][j] for j in range(N) ]), get_count([ board[j][i] for j in range(N) ]))
 
-    print(*count_board, sep='\n')
+q = deque([[0, 0]])
+visited[0][0] = 0
 
-# for i in range(N):
-#   for j in range(N):
-#     for k in range(4):
-#       ni = i + dx[k]
-#       nj = j + dy[k]
+for y in range(N):
+  for x in range(N):
+    for i in range(2):
+      nx = x + dx[i]
+      ny = y + dy[i]
 
-#       if ( 0 > ni or ni <= N or 0 > nj <= N ):
-#         continue
+      if 0 <= nx < N and 0 <= ny < N:
 
-#       board[i][j], board[ni][nj] = board[ni][nj], board[i][j]
+        board[y][x], board[ny][nx] = board[ny][nx], board[y][x]
 
-#       a = get_max_count(board)
-#       if a > m_count:
-#         m_count = a
+        if nx == x:
+          m_count = max(get_count([board[ny][i] for i in range(N)]), get_count([board[y][i] for i in range(N)]), get_count([board[i][x] for i in range(N)]), m_count)
+        else:
+          m_count = max(get_count([board[i][nx] for i in range(N)]), get_count([board[i][x] for i in range(N)]), get_count([board[y][i] for i in range(N)]), m_count)
 
-#       board[i][j], board[ni][nj] = board[ni][nj], board[i][j]
+        board[y][x], board[ny][nx] = board[ny][nx], board[y][x]
 
-
-
-
-print(count_board)
-
-
+print(m_count)
