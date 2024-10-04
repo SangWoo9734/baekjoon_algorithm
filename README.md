@@ -234,4 +234,5 @@
 - p_42892번 - 길찾기 게임 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/42892) \ [코드](algorithm_study/p_42892.py) ]
 - 3085번 - 사탕 게임 [ [문제보기](https://www.acmicpc.net/problem/3085) \ [코드](algorithm_study/3085.py) ]
 - 1695번 - 팰린드롬 만들기 [ [문제보기](https://www.acmicpc.net/problem/1695) \ [코드](algorithm_study/1695.py) ]
+- 14503번 - 로봇 청소기 [ [문제보기](https://www.acmicpc.net/problem/14503) \ [코드](algorithm_study/14503.py) ]
 </details>
