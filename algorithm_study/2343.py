@@ -5,10 +5,11 @@ input = sys.stdin.readline
 def count_video (arr, mid):
 
   size = 0
-  count = 0
+  count = 1
   for a in arr:
     size += a
-    if size >= mid:
+
+    if size > mid:
       count += 1
       size = a
 
@@ -21,23 +22,20 @@ N, M = map(int, input().split())
 
 time = list(map(int, input().split()))
 
-pl = 1
+pl = max(time)
 pr = sum(time)
+res = 10000000000
 
-def binary_search(pl, pr, res):
-  # print(f'pl: {pl}, pr:{pr}, res: {res}')
-  if pl > pr:
-    return res
+while pl <= pr:
 
   mid = ( pl + pr ) // 2
 
   vc = count_video(time, mid)
+  # print(f'pl: {pl}, pr:{pr}, mid:{mid} vc: {vc}')
 
-  if vc > M:
-    return binary_search(mid + 1, pr, res)
+  if vc > M: 
+    pl = mid + 1
   else:
-    if vc == M:
-      res.append(mid)
-    return binary_search(pl, mid - 1, res)
+    pr = mid - 1
 
-print(max(binary_search(pl, pr, [])))
+print(pl)
