@@ -238,4 +238,5 @@
 - 6198번 - 옥상 정원 꾸미기 [ [문제보기](https://www.acmicpc.net/problem/6198) \ [코드](algorithm_study/6198.py) ]
 - 13335번 - 트럭 [ [문제보기](https://www.acmicpc.net/problem/13335) \ [코드](algorithm_study/13335.py) ]
 - 2636번 - 치즈 [ [문제보기](https://www.acmicpc.net/problem/2636) \ [코드](algorithm_study/2636.py) ]
+- 1743번 - 음식물 피하기 [ [문제보기](https://www.acmicpc.net/problem/1743) \ [코드](algorithm_study/1743.py) ]
 </details>
