@@ -241,4 +241,5 @@
 - 1743번 - 음식물 피하기 [ [문제보기](https://www.acmicpc.net/problem/1743) \ [코드](algorithm_study/1743.py) ]
 - l_2530번 - 2530. Maximal Score After Applying K Operations [ [문제보기](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/?envType=daily-question&envId=2024-10-14) \ [코드](algorithm_study/l_2530.py) ]
 - 2573번 - 빙산 [ [문제보기](https://www.acmicpc.net/problem/2573) \ [코드](algorithm_study/2573.py) ]
+- 6593번 - 상범 빌딩 [ [문제보기](https://www.acmicpc.net/problem/6593) \ [코드](algorithm_study/6593.py) ]
 </details>
