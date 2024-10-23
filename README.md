@@ -243,4 +243,5 @@
 - 2573번 - 빙산 [ [문제보기](https://www.acmicpc.net/problem/2573) \ [코드](algorithm_study/2573.py) ]
 - 6593번 - 상범 빌딩 [ [문제보기](https://www.acmicpc.net/problem/6593) \ [코드](algorithm_study/6593.py) ]
 - p_42898번 - 등굣길 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/42898) \ [코드](algorithm_study/p_42898.py) ]
+- 2240번 - 자두나무 [ [문제보기](https://www.acmicpc.net/problem/2240) \ [코드](algorithm_study/2240.py) ]
 </details>
