@@ -246,4 +246,5 @@
 - 2240번 - 자두나무 [ [문제보기](https://www.acmicpc.net/problem/2240) \ [코드](algorithm_study/2240.py) ]
 - p_150370번 - 개인정보 수집 유효기간 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/150370) \ [코드](algorithm_study/p_150370.js) ]
 - p_12921번 - 소수찾기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) \ [코드](algorithm_study/p_12921.js) ]
+- p_136798번 - 기사단원의 무기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) \ [코드](algorithm_study/p_136798.js) ]
 </details>
