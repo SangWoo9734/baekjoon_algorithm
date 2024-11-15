@@ -248,24 +248,5 @@
 - p_12921번 - 소수찾기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/12921) \ [코드](algorithm_study/p_12921.js) ]
 - p_136798번 - 기사단원의 무기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) \ [코드](algorithm_study/p_136798.js) ]
 - 17298번 - 오큰수 [ [문제보기](https://www.acmicpc.net/problem/17298) \ [코드](algorithm_study/17298.py) ]
-
-<!-- 풀었는데 아직 안올림 -->
-
-- p_135807번 - 숫자 카드 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) \ [코드](algorithm_study/p_135807.js) ]
-- 6593번 - 상범 빌딩 [ [문제보기](https://www.acmicpc.net/problem/6593) \ [코드](algorithm_study/6593_2.py) ]
-- 1932번 - 정수 삼각형 [ [문제보기](https://www.acmicpc.net/problem/1932) \ [코드](algorithm_study/1932_2.py) ]
-
-<!-- 못품 -->
-
-- 1581번 - 락스타 락동호 [ [문제보기](https://www.acmicpc.net/problem/1581) \ [코드](algorithm_study/1581.py) ]
-- 5427번 - 불 [ [문제보기](https://www.acmicpc.net/problem/5427) \ [코드](algorithm_study/5427.py) ]
-- 19236번 - 청소년 상어 [ [문제보기](https://www.acmicpc.net/problem/19236) \ [코드](algorithm_study/19236.py) ]
-- 16637번 - 괄호 추가하기 [ [문제보기](https://www.acmicpc.net/problem/16637) \ [코드](algorithm_study/16637.py) ]
-- 2339번 - 석판 쪼개기 [ [문제보기](https://www.acmicpc.net/problem/2339) \ [코드](algorithm_study/2339.py) ]
-- 1799번 - 비숍 [ [문제보기](https://www.acmicpc.net/problem/1799) \ [코드](algorithm_study/1799.py) ]
-- 8980번 - 택배 [ [문제보기](https://www.acmicpc.net/problem/8980) \ [코드](algorithm_study/8980.py) ]
-- 1062번 - 가르침 [ [문제보기](https://www.acmicpc.net/problem/1062) \ [코드](algorithm_study/1062.py) ]
-- 2482번 - 색상환 [ [문제보기](https://www.acmicpc.net/problem/2482) \ [코드](algorithm_study/2482.py) ]
-- 14391번 - 종이 조각 [ [문제보기](https://www.acmicpc.net/problem/14391) \ [코드](algorithm_study/14391.py) ]
-- 17404번 - RGB거리 2 [ [문제보기](https://www.acmicpc.net/problem/17404) \ [코드](algorithm_study/17404.py) ]
+- 2660번 - 회장 뽑기 [ [문제보기](https://www.acmicpc.net/problem/2660) \ [코드](algorithm_study/2660.py) ]
 </details>
