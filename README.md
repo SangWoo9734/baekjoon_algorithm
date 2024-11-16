@@ -249,4 +249,5 @@
 - p_136798번 - 기사단원의 무기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) \ [코드](algorithm_study/p_136798.js) ]
 - 17298번 - 오큰수 [ [문제보기](https://www.acmicpc.net/problem/17298) \ [코드](algorithm_study/17298.py) ]
 - 2660번 - 회장 뽑기 [ [문제보기](https://www.acmicpc.net/problem/2660) \ [코드](algorithm_study/2660.py) ]
+- p_135807번 - 숫자 카드 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) \ [코드](algorithm_study/p_135807.js) ]
 </details>
