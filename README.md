@@ -251,5 +251,5 @@
 - 2660번 - 회장 뽑기 [ [문제보기](https://www.acmicpc.net/problem/2660) \ [코드](algorithm_study/2660.py) ]
 - p_135807번 - 숫자 카드 나누기 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) \ [코드](algorithm_study/p_135807.js) ]
 - 6593번 - 상범 빌딩 [ [문제보기](https://www.acmicpc.net/problem/6593) \ [코드](algorithm_study/6593_2.py) ]
-
+- 1932번 - 정수 삼각형 [ [문제보기](https://www.acmicpc.net/problem/1932) \ [코드](algorithm_study/1932_2.py) ]
 </details>
