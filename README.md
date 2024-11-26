@@ -253,4 +253,5 @@
 - 6593번 - 상범 빌딩 [ [문제보기](https://www.acmicpc.net/problem/6593) \ [코드](algorithm_study/6593_2.py) ]
 - 1932번 - 정수 삼각형 [ [문제보기](https://www.acmicpc.net/problem/1932) \ [코드](algorithm_study/1932_2.py) ]
 - 18869번 - 멀티버스 2 [ [문제보기](https://www.acmicpc.net/problem/18869) \ [코드](algorithm_study/18869.py) ]
+- 15724번 - 주지수 [ [문제보기](https://www.acmicpc.net/problem/15724) \ [코드](algorithm_study/15724.py) ]
 </details>
