@@ -255,4 +255,5 @@
 - 18869번 - 멀티버스 2 [ [문제보기](https://www.acmicpc.net/problem/18869) \ [코드](algorithm_study/18869.py) ]
 - 13549번 - 숨바꼭질 3 [ [문제보기](https://www.acmicpc.net/problem/13549) \ [코드](algorithm_study/13549.py) ]
 - 15724번 - 주지수 [ [문제보기](https://www.acmicpc.net/problem/15724) \ [코드](algorithm_study/15724.py) ]
+- 16562번 - 친구비 [ [문제보기](https://www.acmicpc.net/problem/16562) \ [코드](algorithm_study/16562.py) ]
 </details>
