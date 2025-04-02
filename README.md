@@ -258,4 +258,5 @@
 - 16562번 - 친구비 [ [문제보기](https://www.acmicpc.net/problem/16562) \ [코드](algorithm_study/16562.py) ]
 - p_12938번 - 최고의 집합 [ [문제보기](https://school.programmers.co.kr/learn/courses/30/lessons/12938) \ [코드](algorithm_study/p_12938.py) ]
 - 16118번 - 달빛 여우 [ [문제보기](https://www.acmicpc.net/problem/16118) \ [코드](algorithm_study/16118.py) ]
+- 12956번 - 퍼레이드 [ [문제보기](https://www.acmicpc.net/problem/12956) \ [코드](algorithm_study/12956.py) ]
 </details>
